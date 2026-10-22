@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "description": "Datum's organisation-wide Renovate policy for milo-os, applied to every repository underneath its own config.",
+  "description": "Datum's organisation-wide Renovate policy for milo-os, applied to every repository underneath its own config. Onboarding pull requests are off, so a repository needs no renovate.json to be covered.",
   "extends": [
     "github>datum-cloud/.github:renovate-config"
   ],
